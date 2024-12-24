@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="prototip.h">
+    <ClInclude Include="stdio.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
