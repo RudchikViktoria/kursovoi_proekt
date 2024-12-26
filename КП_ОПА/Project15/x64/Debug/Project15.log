@@ -1,7 +1,0 @@
-﻿  prototip.c
-C:\Users\wikto\Desktop\КП_ОПА\prototip.c(152,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\wikto\Desktop\КП_ОПА\prototip.c(156,45): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\wikto\Desktop\КП_ОПА\prototip.c(186,43): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\wikto\Desktop\КП_ОПА\prototip.c(187,44): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\wikto\Desktop\КП_ОПА\prototip.c(188,44): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  Project15.vcxproj -> C:\Users\wikto\Desktop\КП_ОПА\x64\Debug\Project15.exe
