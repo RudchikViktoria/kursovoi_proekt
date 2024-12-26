@@ -1,0 +1,7 @@
+﻿  kp.c
+C:\Users\wikto\source\repos\Project2\kp.c(182,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\wikto\source\repos\Project2\kp.c(185,45): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\wikto\source\repos\Project2\kp.c(199,43): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\wikto\source\repos\Project2\kp.c(200,44): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\wikto\source\repos\Project2\kp.c(201,44): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Project2.vcxproj -> C:\Users\wikto\source\repos\Project2\x64\Debug\Project2.exe
